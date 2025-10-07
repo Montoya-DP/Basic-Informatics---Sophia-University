@@ -1,0 +1,3 @@
+a = float(input("a?"))
+if a > 10:
+  print("BIG")
